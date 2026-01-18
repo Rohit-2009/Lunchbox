@@ -1,0 +1,7 @@
+{
+  "name": "Lunch Box - Homely Meals for the Common Man",
+  "description": "A hyperlocal food startup bridging the gap between Kudumbashree home cooks and people seeking affordable, healthy, and personalized meals.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
